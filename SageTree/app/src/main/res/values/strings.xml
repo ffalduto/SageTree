@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sage Tree</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="jsonPrueba">{"ramas":[{"ramas":[{"ramas":[],"titulo":"titulo1.1","texto":"texto1.1"},{"ramas":[{"ramas":[],"titulo":"titulo1.1.1","texto":"texto1.1.1"}],"titulo":"titulo1.2","texto":"texto1.2"},{"ramas":[],"titulo":"titulo1.3","texto":"texto1.3"}],"texto":"texto1","titulo":"titulo1"},{"ramas":[],"texto":"texto2","titulo":"titulo2"}]}</string>
+
+    <string name="unaclave">unaclave</string>
+</resources>
